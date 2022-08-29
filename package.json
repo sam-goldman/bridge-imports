@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@eth-optimism/contracts": "^0.5.33",
+    "@eth-optimism/contracts-periphery": "^0.2.2",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.2"
+  }
+}
