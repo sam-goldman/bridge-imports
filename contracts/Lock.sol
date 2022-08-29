@@ -4,6 +4,7 @@ pragma solidity ^0.8.9;
 // Import this file to use console.log
 import "hardhat/console.sol";
 import "@eth-optimism/contracts-periphery/contracts/L1/L1ERC721Bridge.sol";
+import "@eth-optimism/contracts-periphery/contracts/L2/L2ERC721Bridge.sol";
 
 contract Lock {
     uint public unlockTime;
